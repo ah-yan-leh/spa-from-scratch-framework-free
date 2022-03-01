@@ -304,7 +304,7 @@ function hashNavigation() {
         var url = "https://newsapi.org/v1/articles?source=";
         var sort = "&sortBy=";
         var dataSourceSort = "top";
-        var apiKey = "&apiKey=57cb74dc4c994bebb02d616d1cabd514";
+        var apiKey = "&apiKey=999999999999999999999999999999";
         var countSourcesloggedOut = 0;
         var countSources = 0;
         if (!userCountry) {
